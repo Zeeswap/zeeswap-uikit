@@ -1,0 +1,47 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="150" height="150">
+	<title>zeeswap- logo design-ai_2</title>
+	<defs>
+		<linearGradient id="g1" x1="220.5" y1="204.2" x2="347.8" y2="247.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#564fa1"/>
+			<stop offset="1" stop-color="#2ba2da"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="61.7" y1="62.9" x2="350.7" y2="62.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#44bbeb"/>
+			<stop offset="1" stop-color="#5c6cb2"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="255.6" y1="143.8" x2="100.3" y2="169.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#564fa1"/>
+			<stop offset="1" stop-color="#2ba2da"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: #c6bdf4 } 
+		.s4 { fill: #ededed } 
+		.s5 { fill: #dad6f7 } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s0" d="m152.3 328.2l132.3-100.1 76.5 31.9 10.2 80.4-65.9 51.6z"/>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s1" d="m340.7 99.1l10 78.9-198.4 150.2-79.6-31.5-11-86.6 196-145.2z"/>
+				</g>
+				<path id="&lt;Path&gt;" class="s2" d="m110.6 0.3l147.1 64.6-132.6 98.2-73.4-31.9-10.2-80.4z"/>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s3" d="m203.2 196.8l-65.5 50.4-10.9-82 65.5-50.4z"/>
+					</g>
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s4" d="m203.2 196.8l76.4 31.5-65.5 50.4-76.4-31.5 65.5-50.4z"/>
+					</g>
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s5" d="m279.6 228.3l-76.4-31.5-10.9-82 76.4 31.6z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
